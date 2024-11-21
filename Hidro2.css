@@ -1,0 +1,46 @@
+.custom-navbar {
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(33,95,181);
+    background: linear-gradient(257deg, rgba(33,95,181,1) 0%, rgba(45,206,253,1) 100%);
+}
+
+.custom-navbar .navbar-nav .nav-link {
+    color: #ffffff; 
+}
+
+.custom-navbar .navbar-brand {
+    font-weight: bold; 
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.custom-navbar .navbar-nav .nav-link:hover {
+    color: #0ca3c9; 
+}
+
+.card-body{
+    background: #f4f4f4;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.portohidro{
+    font-weight: bold;
+}
+ul{
+    font-size: 20px;
+    text-shadow: 1px 1px 1px black;
+}
+
+.navbar-toggler {
+    border-color: #ffffff; /* Cor da borda do botão */
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    /* Cor branca para o ícone */
+}
+
